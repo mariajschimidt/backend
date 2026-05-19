@@ -89,4 +89,4 @@ def generate():
 
 # Executa o servidor local
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
